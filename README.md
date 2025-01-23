@@ -9,8 +9,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-m-61a89a228/)
 
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurarrmuniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurarrmuniz&layout=compact&theme=dracula&include_all_commits=true&count_private=true)
+![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurarrmuniz&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurarrmuniz&layout=compact&theme=dracula)
 
 ## Tecnologias que mais uso
 <div style="display: inline_block"><br/>
