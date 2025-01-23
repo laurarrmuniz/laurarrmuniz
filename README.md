@@ -1,8 +1,10 @@
 ## Olá! Eu sou a Laura Muniz 🖐️
 
-- 🎓 Cursando Sistemas da Informação
+- 🎓 Estudante de Sistemas de Informação 
 - 🌱 Estudando princípios de análise de dados
 - 💻 A procura de estágio em TI
+- ✨ Focada em crescer como profissional enquanto contribuo para projetos inovadores
+- 🚀 Explorando formas de transformar ideias em soluções reais
 - 😄 Pronomes: ela/dela
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-m-61a89a228/)
@@ -19,4 +21,5 @@
   <img alt="java" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="mysql" align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="postgresql" align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="python" align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
